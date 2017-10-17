@@ -1,0 +1,27 @@
+[
+        {
+		"nombre": "Emiliano Cervantes",
+		"carrera": "ITC",
+		"matricula": "A01332891"
+	},
+	{
+		"nombre": "Irvin Uriel",
+		"carrera": "ITC",
+		"matricula": "A01333820"
+	},
+	{
+		"nombre": "Alfredo Puente",
+		"carrera": "ITC",
+		"matricula": "A01332573"
+	},
+	{
+		"nombre": "Diego Islas",
+		"carrera": "ITC",
+		"matricula": "A01332956"
+	},
+	{
+		"nombre": "Fernando Saavedra",
+		"carrera": "ITC",
+		"matricula": "A01333410"
+	}
+]
